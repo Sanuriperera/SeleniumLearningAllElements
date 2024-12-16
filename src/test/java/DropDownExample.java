@@ -80,5 +80,5 @@ public class DropDownExample {
     }
 
 //    3) Handle Hidden Auto Suggestions DropDown And search using DOM Debugger Trick
-    
+
 }
