@@ -89,7 +89,7 @@ public class WindowExample {
 //        driver.close();
 
         driver.quit();
-        
+
 //        driver.close();--> close single browser window driver which on focus
 //        driver.close(); --> close all browser windows
     }
